@@ -84,7 +84,7 @@
                 {{ config('app.name', 'Laravel') }}
                 </div>
 
-                <p>Current Name: {{$name}}</p>
+                <!--<p>Current Name: {$name}}</p>-->
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
